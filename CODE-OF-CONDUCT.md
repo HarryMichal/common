@@ -1,4 +1,4 @@
-![Containers Logo](images/containers.png)
+![Containers Logo](logos/containers.png)
 ## Containers Community Code of Conduct
 
 ### Contributor Code of Conduct
